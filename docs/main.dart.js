@@ -76682,7 +76682,7 @@ break
 case 6:case 1:return A.Q(q,r)
 case 2:return A.P(o.at(-1),r)}})
 return A.R($async$uJ,r)},
-J(a){var s=this,r=null,q=a.af(t.V6).f.a,p=A.alP(B.x,!0,B.RY),o=A.zw(s.d,r,B.El,r,r,new A.ad8()),n=A.zw(s.e,r,B.n8,r,r,new A.ad9()),m=t.p,l=A.fD(A.b([B.jw,B.bV,A.ch("Unit: "+A.aaS(q),r,r,r,B.cK,r,r),B.kA,A.zp(!1,B.kQ,r,r,r,r,r,r,new A.ada(a),r,r)],m),B.S,B.a7)
+J(a){var s=this,r=null,q=a.af(t.V6).f.a,p=A.alP(B.x,!0,B.RX),o=A.zw(s.d,r,B.El,r,r,new A.ad8()),n=A.zw(s.e,r,B.n8,r,r,new A.ad9()),m=t.p,l=A.fD(A.b([B.jw,B.bV,A.ch("Unit: "+A.aaS(q),r,r,r,B.cK,r,r),B.kA,A.zp(!1,B.kQ,r,r,r,r,r,r,new A.ada(a),r,r)],m),B.S,B.a7)
 o=A.b([new A.iw(A.amv(A.fV(A.b([o,B.aU,n,B.aU,l,B.hr,A.eF(A.amj(B.jv,B.kP,s.x?r:s.ga0Z()),r,1/0)],m),B.S,B.av,B.a7),s.f),B.d3,r),B.aU],m)
 if(s.x)o.push(B.ib)
 n=s.w
@@ -76910,7 +76910,7 @@ J(a){var s,r=null,q=A.apw(B.a6,r,B.by,B.bd,B.by),p=$.af(),o=A.a7(242,B.i.q()>>>1
 o=A.aAE(r,!1,r,r,B.Ds,r,r,new A.ha(4,A.fj(18),new A.aQ(A.a7(115,B.B.q()>>>16&255,B.B.q()>>>8&255,B.B.q()&255),1,B.v,-1)),r,r,r,o,!0,B.i8,B.jg,r,r,new A.ha(4,A.fj(18),B.zE),r,r,r,r,B.hv,r,r,!1,!1,B.kN,r,B.by,r,r,r,r,r)
 s=t.b
 s=A.rP(r,q,new A.q9(A.azT(r,r,B.bd,r,r,r,6,r,r,B.i,r,r,B.Dk,r,new A.cA(A.fj(18),B.r),r,r,r,r,r)),o,new A.or(A.je(r,r,r,new A.b8(new A.abc(),s),r,r,r,r,new A.b8(new A.abd(),s),r,r,r,r,r,r,r,r,r,r,new A.aP(new A.aQ(A.a7(89,B.i.q()>>>16&255,B.i.q()>>>8&255,B.i.q()&255),1,B.v,-1),t.Is),r,r,r,r,r),r),!0)
-return new A.zW(new A.bw(B.yp,p,t.Ei),new A.x1(A.ak(["/city",new A.abe(),"/zip",new A.abf(),"/latlon",new A.abg()],t.N,t.Ab),"/latlon","Weather HW4",s,!1,r),r)}}
+return new A.zW(new A.bw(B.yp,p,t.Ei),new A.x1(A.ak(["/city",new A.abe(),"/zip",new A.abf(),"/latlon",new A.abg()],t.N,t.Ab),"/city","Weather HW4",s,!1,r),r)}}
 A.abc.prototype={
 $1(a){return a.p(0,B.a_)?A.a7(64,B.B.q()>>>16&255,B.B.q()>>>8&255,B.B.q()&255):A.a7(B.d.az(25.5),B.i.q()>>>16&255,B.i.q()>>>8&255,B.i.q()&255)},
 $S:7}
@@ -77021,7 +77021,7 @@ break
 case 6:case 1:return A.Q(q,r)
 case 2:return A.P(o.at(-1),r)}})
 return A.R($async$vY,r)},
-J(a){var s=this,r=null,q=a.af(t.V6).f.a,p=A.alP(B.x,!0,B.RX),o=A.zw(s.d,r,B.Em,r,r,new A.ajJ()),n=A.zw(s.e,r,B.n8,r,r,new A.ajK()),m=t.p,l=A.fD(A.b([B.jw,B.bV,A.ch("Unit: "+A.aaS(q),r,r,r,B.cK,r,r),B.kA,A.zp(!1,B.kQ,r,r,r,r,r,r,new A.ajL(a),r,r)],m),B.S,B.a7)
+J(a){var s=this,r=null,q=a.af(t.V6).f.a,p=A.alP(B.x,!0,B.RY),o=A.zw(s.d,r,B.Em,r,r,new A.ajJ()),n=A.zw(s.e,r,B.n8,r,r,new A.ajK()),m=t.p,l=A.fD(A.b([B.jw,B.bV,A.ch("Unit: "+A.aaS(q),r,r,r,B.cK,r,r),B.kA,A.zp(!1,B.kQ,r,r,r,r,r,r,new A.ajL(a),r,r)],m),B.S,B.a7)
 o=A.b([new A.iw(A.amv(A.fV(A.b([o,B.aU,n,B.aU,l,B.hr,A.eF(A.amj(B.jv,B.kP,s.x?r:s.gaaN()),r,1/0)],m),B.S,B.av,B.a7),s.f),B.d3,r),B.aU],m)
 if(s.x)o.push(B.ib)
 n=s.w
@@ -84179,8 +84179,8 @@ B.RT=new A.eb("Select Temperature Unit",null,B.Rz,null,null,null,null,null,B.l,n
 B.kL=new A.j(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RU=new A.eb("Latitude and Longitude",null,B.kL,null,null,null,null,null,null,null)
 B.kP=new A.eb("Search",null,null,null,null,null,null,null,null,null)
-B.RX=new A.eb("3) Zip + Country",null,B.kL,null,null,null,null,null,null,null)
-B.RY=new A.eb("City and Country",null,B.kL,null,null,null,null,null,null,null)
+B.RX=new A.eb("City and Country",null,B.kL,null,null,null,null,null,null,null)
+B.RY=new A.eb("Zip and Country",null,B.kL,null,null,null,null,null,null,null)
 B.RZ=new A.eb("Done",null,null,null,null,null,null,null,null,null)
 B.kQ=new A.eb("Change",null,null,null,null,null,null,null,null,null)
 B.V4=new A.aaB(0,"system")
